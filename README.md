@@ -1,4 +1,5 @@
 # LuisGuarguana
+
 Perfil Tecnico - Python Developer | Google support IT Specialist | AWS Practitioner
 
  🛠️ Tecnologias Conocidas
@@ -7,3 +8,8 @@ Perfil Tecnico - Python Developer | Google support IT Specialist | AWS Practitio
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+  Estado Actual : " 🔭 Trabajando en Herramientas de automatizacion de Stocks "
+  Contacto: Lyance54@gmail.com // https://www.linkedin.com/in/weblinkluisgyance/
+
+  
